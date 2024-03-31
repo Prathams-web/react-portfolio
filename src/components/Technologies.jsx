@@ -1,6 +1,6 @@
 import React from 'react'
 import { RiReactjsLine } from 'react-icons/ri'
-import { TbBrandNextjs } from 'react-icons/tb'
+// import { TbBrandNextjs } from 'react-icons/tb'
 import { IoLogoJavascript } from "react-icons/io5";
 import { SiMongodb } from 'react-icons/si'
 import { DiHtml5 } from "react-icons/di";
