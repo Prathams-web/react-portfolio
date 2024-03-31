@@ -71,7 +71,7 @@ export const PROJECTS = [
     description:
       "A personal portfolio website showcasing projects, skills, and contact information.",
     technologies: ["React", "Tailwind CSS", "Vercel"],
-    link: "https://react-portfolio-i2dbce80v-prathamesh-tirlotkars-projects.vercel.app/"
+    link: "https://react-portfolio-rouge-nine.vercel.app/"
   },
 ];
 
